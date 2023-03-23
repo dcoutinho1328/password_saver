@@ -1,0 +1,5 @@
+cryptography
+pyperclip
+base64
+json
+getpass
